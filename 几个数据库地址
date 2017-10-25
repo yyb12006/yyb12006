@@ -1,0 +1,103 @@
+HAR(Human Activity Recognition)数据库(以后再也不用发愁训练数据啦)
+
+下载地址： https://archive.ics.uci.edu/ml/index.html
+
+Welcome to the UC Irvine Machine Learning Repository!
+
+We currently maintain 351 data sets as a service to the machine learning community. You may view all data sets through our searchable interface. Our old web site is still available, for those who prefer the old format. For a general overview of the Repository, please visit our About page. For information about citing data sets in publications, please read our citation policy. If you wish to donate a data set, please consult our donation policy. For any other questions, feel free to contact the Repository librarians. We have also set up a mirror site for the Repository.
+
+做Human Activity Recognition 需要的训练集： 
+[1] https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions# 
+[2] http://mlr.cs.umass.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+对[1]数据集的说明： 
+https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-84.pdf
+
+
+
+常用图像数据库
+
+
+1，http://www.multitel.be/cantata/
+
+
+这个网址提供了大量的视频和图像的数据库下载索引，并有相应的介绍，强烈推荐！大家慢慢去找寻自己的惊喜吧
+
+
+2，http://www.cvpapers.com/datasets.html
+
+
+CVDatasets on the web ， 主要好像是直立行人检测….
+
+
+3，http://www.cvc.uab.es/adas/site/?q=node/7
+
+
+里面又有好几种数据库可以下载：CVC Virtual Pedestrian Dataset、CVC-01Pedestrian Dataset、CVC-02 PedestrianDataset
+
+
+4，http://www.cis.upenn.edu/~jshi/ped_html/
+
+
+Databasedescription：This is an image database containing images that are usedfor pedestrian detection in the experiments reported in[1]. The images are taken from scenes around campus
+and urban street. Theobjects we are interested in these images are pedestrians. Each image will haveat least one pedestrian in it.
+
+
+Theheights of labeled pedestrians in this database fall into [180,390] pixels. Alllabeled pedestrians are straight up.
+
+
+Thereare 170 images with 345 labeled pedestrians, among which 96 images are takenfrom around University of Pennsylvania, and other 74 are taken from aroundFudan University.
+
+
+5，http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/
+
+
+Caltech Pedestrian Detection Benchmark：The Caltech Pedestrian Dataset consists of approximately10 hours of 640x480 30Hz video taken from a vehicle
+driving through regulartraffic in an urban environment. About 250,000 frames (in 137 approximatelyminute long segments) with a total of 350,000 bounding boxes and 2300 uniquepedestrians were annotated. The annotation includes temporal correspondencebetween
+bounding boxes and detailed occlusion labels. More information can befound in our
+PAMI2011 and
+CVPR2009 benchmarking papers.
+
+
+6，http://www.edgar-seemann.de/pd/datasets.py
+
+
+PedestrianDetection
+
+
+7，http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html#Database
+Weizmann 人体行为库
+
+
+http://www.nada.kth.se/cvap/actions/
+KTH人体行为数据库
+
+
+http://4drepository.inrialpes.fr/public/viewgroup/6 INRIA XMAX多视角视频库
+
+
+http://vision.eecs.ucf.edu/data.htm
+UCF Sports 数据库
+
+
+http://www.di.ens.fr/~laptev/actions/hollywood2/
+Hollywood 人体行为库
+
+
+http://vision.stanford.edu/Datasets/OlympicSports/
+Olympic sports dataset
+
+
+这几个数据库均是基于动作/行为识别的(在第1条网址中也可以找到它们的下载地址)，文章《视频中行为识别公开数据库汇总
+
+
+》对它们的评价比较中肯，可以参看：http://blog.sina.com.cn/s/blog_631a4cc40101138j.html
+
+
+8，http://homepages.inf.ed.ac.uk/rbf/BEHAVE/
+
+
+Computer-assistedprescreening of video streams for unusual activities
+
+
+9，http://www.cc.gatech.edu/cpl/projects/monsoon/PropagationNet/PropagationNet.html
